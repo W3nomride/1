@@ -1,0 +1,38 @@
+body{
+	background-color: #C34A36;
+	width: 1024px;
+}
+header{
+	border:0px;color: solid;
+	background-color: green;
+	color:white;
+	text-align: center;
+	padding:15px;
+	width:1180px;
+	height: 105px;
+	margin:0px 150px 0px 150px;
+}
+.nav{
+		display:inline-block;
+		margin:10px;
+	}
+	#foto{text-align: center;
+    padding: 15px;
+    height: 105px;
+}
+#h2{
+	border:0px;color:solid;
+	text-align: center;
+}
+#about{
+	text-align: center;
+    width: 1500px;
+    margin:0 auto;
+}
+.mygtukas{
+	background-color: black;
+	border-radius: 20px;
+	width: 70px;
+	text-align: center;
+
+}
